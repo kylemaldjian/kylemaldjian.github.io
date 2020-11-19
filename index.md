@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<body>
+<body style="background-color:powderblue;">
 <h1>Hello World</h1>
 <p>hummus madafakaaa
   What's up</p>
